@@ -45,3 +45,6 @@ This implementation is part of a series where the same application was implement
 - [React](https://github.com/blacksonic/todomvc-react)
 - [React Hooks](https://github.com/blacksonic/todomvc-react-hooks)
 - [Svelte](https://github.com/blacksonic/todomvc-svelte)
+
+
+Notes:
